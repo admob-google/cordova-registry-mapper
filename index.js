@@ -90,6 +90,7 @@ var map = {
     'com.blackberry.community.gsecrypto' : 'cordova-plugin-bb-crypto',
     'com.blackberry.community.mongoose' : 'cordova-plugin-mongoose',
     'net.yoik.cordova.plugins.screenorientation' : 'cordova-plugin-screen-orientation',
+    'com.admob.plugin' : 'com-admob-plugin',
     'com.phonegap.plugins.barcodescanner' : 'phonegap-plugin-barcodescanner',
     'com.manifoldjs.hostedwebapp' : 'cordova-plugin-hostedwebapp',
     'com.initialxy.cordova.themeablebrowser' : 'cordova-plugin-themeablebrowser',
